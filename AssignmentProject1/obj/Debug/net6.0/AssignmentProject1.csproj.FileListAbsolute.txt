@@ -13,3 +13,18 @@ D:\My_Folder\VS project\AssignmentProject1\obj\Debug\net6.0\refint\AssignmentPro
 D:\My_Folder\VS project\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.pdb
 D:\My_Folder\VS project\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.genruntimeconfig.cache
 D:\My_Folder\VS project\AssignmentProject1\obj\Debug\net6.0\ref\AssignmentProject1.dll
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\bin\Debug\net6.0\AssignmentProject1.exe
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\bin\Debug\net6.0\AssignmentProject1.deps.json
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\bin\Debug\net6.0\AssignmentProject1.runtimeconfig.json
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\bin\Debug\net6.0\AssignmentProject1.dll
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\bin\Debug\net6.0\AssignmentProject1.pdb
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.csproj.AssemblyReference.cache
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.AssemblyInfoInputs.cache
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.AssemblyInfo.cs
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.csproj.CoreCompileInputs.cache
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.dll
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\refint\AssignmentProject1.dll
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.pdb
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\AssignmentProject1.genruntimeconfig.cache
+D:\My_Folder\GitHub\.Net_Projects\AssignmentProject1\obj\Debug\net6.0\ref\AssignmentProject1.dll

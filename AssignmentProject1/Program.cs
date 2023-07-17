@@ -38,6 +38,7 @@ namespace AssignmentProject1
             {
                 Console.WriteLine("Thank you!!!");
             }
+            Console.ReadKey();
         }
     }
 }
