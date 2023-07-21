@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My_Folder\\VS project\\AssignmentProject1\\AssignmentProject1.csproj": {}
+    "D:\\My_Folder\\GitHub\\.Net_Projects\\AssignmentProject1\\AssignmentProject1.csproj": {}
   },
   "projects": {
-    "D:\\My_Folder\\VS project\\AssignmentProject1\\AssignmentProject1.csproj": {
+    "D:\\My_Folder\\GitHub\\.Net_Projects\\AssignmentProject1\\AssignmentProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My_Folder\\VS project\\AssignmentProject1\\AssignmentProject1.csproj",
+        "projectUniqueName": "D:\\My_Folder\\GitHub\\.Net_Projects\\AssignmentProject1\\AssignmentProject1.csproj",
         "projectName": "AssignmentProject1",
-        "projectPath": "D:\\My_Folder\\VS project\\AssignmentProject1\\AssignmentProject1.csproj",
+        "projectPath": "D:\\My_Folder\\GitHub\\.Net_Projects\\AssignmentProject1\\AssignmentProject1.csproj",
         "packagesPath": "C:\\Users\\johng\\.nuget\\packages\\",
-        "outputPath": "D:\\My_Folder\\VS project\\AssignmentProject1\\obj\\",
+        "outputPath": "D:\\My_Folder\\GitHub\\.Net_Projects\\AssignmentProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johng\\AppData\\Roaming\\NuGet\\NuGet.Config",
