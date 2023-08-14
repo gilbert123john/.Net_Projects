@@ -1,0 +1,15 @@
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\bin\Debug\net6.0\Strudy.exe
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\bin\Debug\net6.0\Strudy.deps.json
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\bin\Debug\net6.0\Strudy.runtimeconfig.json
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\bin\Debug\net6.0\Strudy.dll
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\bin\Debug\net6.0\Strudy.pdb
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.csproj.AssemblyReference.cache
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.AssemblyInfoInputs.cache
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.AssemblyInfo.cs
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.csproj.CoreCompileInputs.cache
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.dll
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\refint\Strudy.dll
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.pdb
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\Strudy.genruntimeconfig.cache
+D:\My_Folder\GitHub\.Net_Projects\Study\Strudy\obj\Debug\net6.0\ref\Strudy.dll
