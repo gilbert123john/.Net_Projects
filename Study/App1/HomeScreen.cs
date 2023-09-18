@@ -12,7 +12,7 @@ namespace App1
 {
     public partial class HomeScreen : Form
     {
-        public static string fName, lName, designation;
+        public static string fName = "", lName = "", designation = "";
         public HomeScreen()
         {
             InitializeComponent();
@@ -22,6 +22,7 @@ namespace App1
         {
             
             lblWelcome.Text = "Welcome "+Form1.passId;
+            setData();
         }
 
         private void bLogout_Click(object sender, EventArgs e)
@@ -34,6 +35,9 @@ namespace App1
         private void bNext_Click(object sender, EventArgs e)
         {
             getData();
+            AboutPage aboutPage = new AboutPage();
+            aboutPage.Show();
+            this.Hide();
         }
 
         private void getData()
@@ -41,6 +45,12 @@ namespace App1
             fName = txtFName.Text;
             lName = txtLName.Text;
             designation = txtDesignation.Text;
+        }
+        public void setData()
+        {
+            txtFName.Text= fName;
+            txtLName.Text= lName;
+            txtDesignation.Text= designation;
         }
         private void bProgress_Click(object sender, EventArgs e)
         {

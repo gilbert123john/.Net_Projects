@@ -39,6 +39,7 @@
             this.txtLName = new System.Windows.Forms.TextBox();
             this.txtDesignation = new System.Windows.Forms.TextBox();
             this.bNext = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblWelcome
@@ -104,10 +105,10 @@
             // bProgress
             // 
             this.bProgress.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bProgress.Location = new System.Drawing.Point(563, 335);
+            this.bProgress.Location = new System.Drawing.Point(17, 395);
             this.bProgress.Name = "bProgress";
-            this.bProgress.Size = new System.Drawing.Size(214, 38);
-            this.bProgress.TabIndex = 6;
+            this.bProgress.Size = new System.Drawing.Size(202, 38);
+            this.bProgress.TabIndex = 9;
             this.bProgress.Text = "View Progress";
             this.bProgress.UseVisualStyleBackColor = true;
             this.bProgress.Click += new System.EventHandler(this.bProgress_Click);
@@ -117,38 +118,49 @@
             this.txtFName.Location = new System.Drawing.Point(225, 151);
             this.txtFName.Name = "txtFName";
             this.txtFName.Size = new System.Drawing.Size(408, 22);
-            this.txtFName.TabIndex = 7;
+            this.txtFName.TabIndex = 6;
             // 
             // txtLName
             // 
             this.txtLName.Location = new System.Drawing.Point(225, 220);
             this.txtLName.Name = "txtLName";
             this.txtLName.Size = new System.Drawing.Size(408, 22);
-            this.txtLName.TabIndex = 8;
+            this.txtLName.TabIndex = 7;
             // 
             // txtDesignation
             // 
             this.txtDesignation.Location = new System.Drawing.Point(225, 290);
             this.txtDesignation.Name = "txtDesignation";
             this.txtDesignation.Size = new System.Drawing.Size(408, 22);
-            this.txtDesignation.TabIndex = 9;
+            this.txtDesignation.TabIndex = 8;
             // 
             // bNext
             // 
             this.bNext.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bNext.Location = new System.Drawing.Point(563, 397);
+            this.bNext.Location = new System.Drawing.Point(225, 395);
             this.bNext.Name = "bNext";
-            this.bNext.Size = new System.Drawing.Size(214, 41);
+            this.bNext.Size = new System.Drawing.Size(156, 41);
             this.bNext.TabIndex = 10;
-            this.bNext.Text = "Save and Next";
+            this.bNext.Text = "Discription";
             this.bNext.UseVisualStyleBackColor = true;
             this.bNext.Click += new System.EventHandler(this.bNext_Click);
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(387, 394);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(152, 41);
+            this.button1.TabIndex = 11;
+            this.button1.Text = "coming soon";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // HomeScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.bNext);
             this.Controls.Add(this.txtDesignation);
             this.Controls.Add(this.txtLName);
@@ -182,5 +194,6 @@
         private System.Windows.Forms.TextBox txtLName;
         private System.Windows.Forms.TextBox txtDesignation;
         private System.Windows.Forms.Button bNext;
+        private System.Windows.Forms.Button button1;
     }
 }

@@ -11,3 +11,4 @@ D:\My_Folder\GitHub\.Net_Projects\Study\App1\obj\Debug\App1.exe
 D:\My_Folder\GitHub\.Net_Projects\Study\App1\obj\Debug\App1.pdb
 D:\My_Folder\GitHub\.Net_Projects\Study\App1\obj\Debug\App1.HomeScreen.resources
 D:\My_Folder\GitHub\.Net_Projects\Study\App1\obj\Debug\App1.ProfilePage.resources
+D:\My_Folder\GitHub\.Net_Projects\Study\App1\obj\Debug\App1.AboutPage.resources
