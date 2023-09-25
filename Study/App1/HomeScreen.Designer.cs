@@ -105,7 +105,7 @@
             // bProgress
             // 
             this.bProgress.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bProgress.Location = new System.Drawing.Point(17, 395);
+            this.bProgress.Location = new System.Drawing.Point(575, 394);
             this.bProgress.Name = "bProgress";
             this.bProgress.Size = new System.Drawing.Size(202, 38);
             this.bProgress.TabIndex = 9;
@@ -137,7 +137,7 @@
             // bNext
             // 
             this.bNext.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bNext.Location = new System.Drawing.Point(225, 395);
+            this.bNext.Location = new System.Drawing.Point(37, 391);
             this.bNext.Name = "bNext";
             this.bNext.Size = new System.Drawing.Size(156, 41);
             this.bNext.TabIndex = 10;
@@ -148,7 +148,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(387, 394);
+            this.button1.Location = new System.Drawing.Point(209, 391);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(152, 41);
             this.button1.TabIndex = 11;
